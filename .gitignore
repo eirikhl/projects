@@ -1,3 +1,11 @@
-
+*.o
+*.d
+*.bin
+*.rlib
+*.rmeta
+.fingerprint*
 *~
 \#*
+rust/tutorial/adder/target/*
+rust/*/*/target/*
+debug/*
